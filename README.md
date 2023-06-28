@@ -28,6 +28,6 @@ Validation:
 12.73436824 12.90561434 12.80094331 12.94288752 13.30139966
 12.76232665]
 
-Testing Accuracy: 12.767920696597056
+Testing Age Accuracy: 12.767920696597056
 
-<img width="454" alt="image" src="https://github.com/malaviyaneha/Facial_Age_Estimation/assets/116248447/d38f679d-2ecc-4911-a795-3f0da0766304">
+
